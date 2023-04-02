@@ -1,5 +1,5 @@
 # 📃 Sobre:
-⌛ Atualmente seguindo roadmap Full Stack<br>⌚ No momento focado em Front-End<br><br>❌ Engenharia Elétrica de Telecomunicações<br>💹 Análise e Desenvolvimento de Sistemas
+⌛ Atualmente seguindo roadmap Full Stack<br>⌚ No momento focado em Front-End<br><br>❌ Engenharia Elétrica de Telecomunicações - UPE<br>💹 Análise e Desenvolvimento de Sistemas - IFPE
 
 
 ## 🌐 Socials:
