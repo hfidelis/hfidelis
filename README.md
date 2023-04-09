@@ -2,7 +2,7 @@
 ⌛ Seguindo roadmap Full Stack<br>⌚ No momento focado em Front-End<br><br>❌ Engenharia Elétrica de Telecomunicações - UPE<br>💹 Análise e Desenvolvimento de Sistemas - IFPE
 
 
-## 🌐 contato:
+## 🌐 contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hfidelis/) 
 
 # 💻 technologies:
