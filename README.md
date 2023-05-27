@@ -1,5 +1,5 @@
 ## 📃:
-⌛ **future full stack developer**<br>💹 **análise e desenvolvimento de sistemas - ifpe**<br>❌ eng. elétrica de telecomunicações - upe
+⌛ **future full stack developer**<br>💹 **análise e desenvolvimento de sistemas - ifpe**
 
 
 ## 🌐 contact:
