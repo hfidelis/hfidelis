@@ -3,10 +3,8 @@
 </p>
 
 ## 📃:
-⌛ **future full stack developer**<br>💹 **análise e desenvolvimento de sistemas - ifpe**
-
 <p align="center">
-Oi, meu nome é Heitor Fidelis, sou estudante de ADS e atualmente estou focando em front-end com Angular, meu objetivo é me qualificar como Dev Fullstack. Aqui eu documento alguns dos meus projetos pessoais e estudos para acompanhar o meu desenvolvimento.
+Oi, meu nome é Heitor Fidelis, sou estudante de ADS e atualmente estou focando em front-end com Angular, meu objetivo é me qualificar como Dev Fullstack. Aqui eu documento alguns dos meus projetos pessoais e estudos para acompanhar o meu desenvolvimento.<br>⌛ **future full stack developer**<br>💹 **análise e desenvolvimento de sistemas - ifpe**
 </p>
 
 ## 🌐 contact:
