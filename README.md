@@ -1,3 +1,5 @@
+<script src="https://cdn.jsdelivr.net/npm/@lottiefiles/player"></script>
+<lottie-player src="lottie/lottie-animation.json" background="transparent" speed="1" style="width: 300px; height: 300px;"></lottie-player>
 ## 📃:
 ⌛ **future full stack developer**<br>💹 **análise e desenvolvimento de sistemas - ifpe**
 
