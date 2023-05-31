@@ -1,4 +1,7 @@
-![Lottie Gif](lottie/lottie-code.gif)
+<p align="center">
+  <img src="lottie/lottie-anim.gif" alt="animated"/>
+</p>
+
 ## 📃:
 ⌛ **future full stack developer**<br>💹 **análise e desenvolvimento de sistemas - ifpe**
 
