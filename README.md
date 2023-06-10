@@ -5,7 +5,7 @@ Oi, meu nome é Heitor Fidelis, sou estudante de ADS e atualmente estou focando 
 <hr>
 
 ## 🌐 contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hfidelis/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hfidelis/)
 
 <hr>
 <p align="center">
