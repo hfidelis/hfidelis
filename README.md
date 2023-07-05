@@ -1,6 +1,6 @@
 ## 📃:
 <p align="justify">
-Oi, meu nome é Heitor Fidelis, sou estudante de ADS e atualmente estou focando em front-end, meu objetivo é me qualificar como Dev Fullstack. Aqui eu documento alguns dos meus projetos pessoais e estudos para acompanhar o meu desenvolvimento.<br><hr><br>⌛ <strong>future full stack developer</strong><br><strong>💹 análise e desenvolvimento de sistemas - ifpe</strong>
+Oi, meu nome é Heitor Fidelis, sou estudante de ADS e atualmente estou focando em front-end, meu objetivo é me qualificar como Dev Fullstack. Aqui eu documento alguns dos meus projetos pessoais e estudos para acompanhar o meu desenvolvimento.<br><hr><br>⌛ <strong>full stack developer on construction</strong><br><strong>💹 análise e desenvolvimento de sistemas - ifpe</strong>
 </p>
 <hr>
 
