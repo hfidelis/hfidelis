@@ -27,4 +27,4 @@ Oi, meu nome é Heitor Fidelis, sou estudante de ADS e atualmente estou focando 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hfidelis&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hfidelis&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://visitcount.itsvg.in/api?id=hfidelis&label=Views&color=12&icon=3&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=hfidelis&label=Views&color=12&icon=3&pretty=false)](https://visitcount.itsvg.in)
