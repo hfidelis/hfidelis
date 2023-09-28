@@ -1,7 +1,6 @@
 ## 📃 Oi!
-<p align="justify">
-Meu nome é Heitor Fidelis, sou estudante de ADS e no momento estou focando em front-end com Angular, meu objetivo é evoluir como Dev Fullstack. Aqui eu documento alguns dos meus projetos pessoais e estudos para acompanhar o meu desenvolvimento.<br> <p align="center">Atualmente cursando <strong>Análise e desenvolvimento de sistemas - IFPE 💻💹</strong></p>
-</p>
+
+Meu nome é Heitor Fidelis, no momento estou atuando com Vue e Django e cursando ADS. Aqui eu documento alguns dos meus projetos pessoais e estudos para acompanhar o meu desenvolvimento.
 
 ## 📬 Contato
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hfidelis/)
