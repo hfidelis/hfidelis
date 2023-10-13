@@ -1,6 +1,6 @@
 ## 🌱 Oi!
 
-Meu nome é Heitor Fidelis, no momento estou atuando com VueJS/Django e cursando Análise e Desenvolvimento de Sistemas no IFPE. Aqui eu documento alguns dos meus projetos pessoais e estudos para acompanhar o meu desenvolvimento.
+**Meu nome é Heitor Fidelis, no momento estou atuando com VueJS/Django e cursando Análise e Desenvolvimento de Sistemas no IFPE. Aqui eu documento alguns dos meus projetos pessoais e estudos para acompanhar o meu desenvolvimento.**
 
 ## 📱 Contato
 <div>
