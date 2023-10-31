@@ -42,16 +42,13 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=00ED64&color=000000">
 </div>
 
-# 🌐 GitHub Stats
+## 🌐 info
 
+<div>
+  <img  width=800 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hfidelis&theme=midnight_purple">
+</div>
+<br>
 <div>
   <img height=180 width=420 align="center" src="https://github-readme-stats.vercel.app/api?username=hfidelis&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Commits">
   <img height=180 width=420 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfidelis&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,css" alt="GitHub Langs">
 </div>
-
-<br>
-
-<div>
-  <img height=30 src="https://visitcount.itsvg.in/api?id=hfidelis&label=Visitas&color=12&icon=5&pretty=true">
-</div>
-
