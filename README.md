@@ -32,8 +32,9 @@
 
 <div>
   <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=c44f87&color=000000">
-  <img alt="Bulma" src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=5ff5cb&color=000000">
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=a56ded&color=000000">
+  <img alt="Bulma" src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=5ff5cb&color=000000">
+  <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-757575.svg?style=for-the-badge&logo=Material-Design&logoColor=white&color=000000">
 </div>
 
 <div>
