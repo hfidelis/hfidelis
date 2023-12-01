@@ -48,14 +48,14 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=00ED64&color=000000">
 </div>
 -->
-
+<!--
 ## 🌐 info
-
+-->
+<!--
 <div>
   <img  width=800 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hfidelis&theme=midnight_purple">
 </div>
-
-<br>
+-->
 <!--
 <div>
   <img height=180 width=420 align="center" src="https://github-readme-stats.vercel.app/api?username=hfidelis&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Commits">
