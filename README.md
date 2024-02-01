@@ -1,4 +1,4 @@
-## 🌱 Oi!
+## Olá 👋
 
 <!--
 **Meu nome é Heitor Fidelis,**
@@ -6,7 +6,7 @@
 -->
 **No momento estou atuando com ``VueJS`` ``Django`` e cursando Análise e Desenvolvimento de Sistemas no IFPE.**
 
-**[🌐 hfidelis.github.io](https://hfidelis.github.io/)**
+**[🌱 hfidelis.github.io](https://hfidelis.github.io/)**
 
 <!--
 ## 📱 Contato
