@@ -1,12 +1,14 @@
-## Olá 👋
+## Hi, there 👋
 
 <!--
 **Meu nome é Heitor Fidelis,**
 <br>
 -->
-**No momento estou atuando com ``VueJS`` ``Django`` e cursando Análise e Desenvolvimento de Sistemas no IFPE.**
+**Currently i'm working with ```VueJS``` and ```Django```.**
 
-**[🌱 hfidelis.github.io](https://hfidelis.github.io/)**
+**I'm interested in understand things, build solutions in web development ecosystem and learn everyday.**
+
+**[hfidelis.github.io 🌱](https://hfidelis.github.io/)**
 
 <!--
 ## 📱 Contato
