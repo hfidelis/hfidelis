@@ -1,4 +1,4 @@
-## Hi, there 👋
+## Hi, there! i'm Heitor 👋
 
 **Currently i'm working with ```VueJS``` and ```Django```.**
 
