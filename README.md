@@ -6,14 +6,8 @@
 
 **[hfidelis.github.io](https://hfidelis.github.io/) 🌱**
 
-<div>
-  <a href="https://www.linkedin.com/in/hfidelis" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=070808" target="_blank">
-  </a>
-  <a href="mailto:heitorc88@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=070808" target="_blank">
-  </a>
-</div>
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=070808)](https://www.linkedin.com/in/hfidelis) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=070808)](mailto:heitorc88@gmail.com)
 
 <!--
 <div>
