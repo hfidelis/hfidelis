@@ -2,7 +2,7 @@
 
 **Currently i'm working with ```VueJS``` and ```Django```.**
 
-**I'm interested in understand things, build solutions in web development ecosystem and learn everyday.**
+**I'm interested in understand new things, build solutions in web development ecosystem and learn everyday.**
 
 **[hfidelis.github.io](https://hfidelis.github.io/) 🌱**
 
