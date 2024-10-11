@@ -4,10 +4,11 @@
 
 **I'm interested in understand new things, build solutions in web development ecosystem and learn everyday.**
 
-**[hfidelis.github.io](https://hfidelis.github.io/) 🌱**
-
+[![Blog](https://img.shields.io/badge/hfidelis.github.io-%239945FF.svg?&style=for-the-badge&color=darkgreen)](mailto:heitorc88@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=070808)](https://www.linkedin.com/in/hfidelis) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=070808)](mailto:heitorc88@gmail.com)
+
+
 
 <!--
 <div>
