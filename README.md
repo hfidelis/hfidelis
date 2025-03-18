@@ -1,8 +1,8 @@
-## Hi there! i'm Heitor 👋
+# Hi there! i'm Heitor 👋
 
-**Currently i'm working with ```VueJS``` and ```Django```.**
+#### Full Stack Software Developer, currently working with _```VueJS```_ and _```Django```_.
 
-**I enjoy understanding new things, building solutions in the web development ecosystem and learning every day.**
+I enjoy understanding new things, building useful solutions in the web development ecosystem and learning every day.
 
 [![Blog](https://img.shields.io/badge/hfidelis.github.io-ffffff?style=plastic&logo=github&logoColor=black)](https://hfidelis.github.io)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/hfidelis)
